@@ -29,11 +29,6 @@ The galaxy's stars are represented using **BufferGeometry** and **Points**, whic
 
 A **GUI** is provided for real-time customization of the galaxy. Users can adjust various parameters to instantly see the changes in the galaxy:
 
-
-## Screenshot
-
-*A glimpse of the procedurally generated galaxy, showcasing the spiral arms and star density.*
-
 ![Screenshot from 2024-08-28 13-51-12](https://github.com/user-attachments/assets/990c3b2f-bad0-4b75-b647-c39fa9b2dccd)
 ![Screenshot from 2024-08-28 13-52-30](https://github.com/user-attachments/assets/611e532e-5334-45c8-9d7d-5a9b2bbfde44)
 ![Screenshot from 2024-08-28 13-54-06](https://github.com/user-attachments/assets/88b1032b-da25-487d-be77-4ded56bb955f)
